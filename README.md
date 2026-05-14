@@ -25,4 +25,4 @@ The technologies used were
 - https://www.lexus.com/
 - https://www.lexus.com/models/IS
 
-Live link ()
+Live link (https://lexus-is-advertising.vercel.app/)
