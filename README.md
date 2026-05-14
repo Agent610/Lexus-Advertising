@@ -20,7 +20,7 @@ The technologies used were
 - Image gallery
 - Clean semantic HTML structure
 
-## Sites used
+## Content Sources
 
 - https://www.lexus.com/
 - https://www.lexus.com/models/IS
